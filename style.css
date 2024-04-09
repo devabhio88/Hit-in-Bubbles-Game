@@ -91,8 +91,8 @@ border: black solid 1px;
 }
 @media (max-width:600px) {
     .bubble{
-        height: 3.1vh;
-        width: 6.95vw;
+        height: 4.78vh;
+        width: 4.78vh;
         font-size: 3vw;
     }
 #panelt{
@@ -106,4 +106,8 @@ border: black solid 1px;
  h3{
     font-size: 3.95vw;
  }
+    #main>h2 {
+    font-size: 6vw;
+    font-weight: 600;
+}
 }
